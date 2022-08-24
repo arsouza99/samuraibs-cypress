@@ -1,0 +1,23 @@
+{
+  "success": {
+    "name": "Anderson Souza",
+    "email": "arouza99@gmail.com",
+    "password": "pwd123"
+  },
+  "emailDup": {
+    "name": "João Lucas",
+    "email": "joao@samuraibs.com",
+    "password": "pwd123",
+    "is_provider": true
+  },
+  "emailInv": {
+    "name": "Elizabeth Olsen",
+    "email": "liza.yahoo.com",
+    "password": "pwd123"
+  },
+  "shortPassword": {
+    "name": "Jason Friday",
+    "email": "jason@gmail.com",
+    "password": null
+  }
+}
