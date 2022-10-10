@@ -10,6 +10,10 @@ const dbConfig = {
 };
 
 module.exports = defineConfig({
+  env: {
+    apiServer: 'http://localhost:3333'
+  },
+
   e2e: {
     baseUrl: 'http://localhost:3000',
     viewportWidth: 1440,
